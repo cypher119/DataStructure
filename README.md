@@ -1,2 +1,2 @@
 # DataStructure
-Creating all Data Structure in JAVA
+Creating Data Structures in JAVA
