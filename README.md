@@ -1,2 +1,2 @@
 # DataStructure
-Creating Data Structures in \PYTHON
+Creating Data Structures in PYTHON
