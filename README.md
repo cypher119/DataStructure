@@ -1,2 +1,2 @@
 # DataStructure
-Creating Data Structures in JAVA
+Creating Data Structures in \PYTHON
